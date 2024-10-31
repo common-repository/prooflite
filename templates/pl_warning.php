@@ -1,0 +1,1 @@
+<div class="notice notice-error is-dismissible">    <p>WooCommerce should be installed or active to show live purchases, sales on your site. </p></div>
